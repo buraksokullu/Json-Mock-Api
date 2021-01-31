@@ -1,4 +1,4 @@
-# Hepsiburada List UI
+# Cities and Events Json
 
 ## Project Install
 
@@ -9,5 +9,6 @@
     json-server --watch db/db.json
 
 ## Links
-  http://localhost:3000/cities
-  http://localhost:3000/events
+
+http://localhost:3000/cities
+http://localhost:3000/events
